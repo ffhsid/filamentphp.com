@@ -6,6 +6,6 @@ description: A thumb-friendly bottom navigation bar specifically for mobile view
 github_repository: hammadzafar05/mobile-bottom-nav
 docs_url: https://raw.githubusercontent.com/hammadzafar05/mobile-bottom-nav/5.x/README.md
 has_dark_theme: true
-has_translations: false
+has_translations: true
 versions: [4, 5]
 publish_date: 2026-02-16
