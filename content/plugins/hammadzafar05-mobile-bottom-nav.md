@@ -8,4 +8,4 @@ docs_url: https://raw.githubusercontent.com/hammadzafar05/mobile-bottom-nav/5.x/
 has_dark_theme: true
 has_translations: false
 versions: [4, 5]
-publish_date: 2026-02-15
+publish_date: 2026-02-16
