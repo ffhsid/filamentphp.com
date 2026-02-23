@@ -11,5 +11,5 @@ github_repository: arnautdev/filament-audit-pro
 has_dark_theme: true
 has_translations: true
 versions: [3]
-publish_date: 2026-02-22
+publish_date: 2026-02-23
 ---
