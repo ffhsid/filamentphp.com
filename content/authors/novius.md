@@ -1,7 +1,7 @@
 ---
 name: Novius
-slug: Novius
-github: https://github.com/novius
+slug: novius
+github_url: https://github.com/novius
 ---
 
 [**Novius**](https:www.novius.com) is a French web agency specializing in the development of tailor-made web applications with **Laravel**. 
