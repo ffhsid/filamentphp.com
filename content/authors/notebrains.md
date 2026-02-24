@@ -1,5 +1,5 @@
 ---
 name: Notebrains
-slug: notebrains
+slug: notebrainslab
 github_url: https://github.com/notebrainslab
 ---
