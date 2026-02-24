@@ -4,9 +4,8 @@ name: TokeUI Theme
 slug: docteur-parfait-tokeui-theme
 author_slug: docteur-parfait
 categories: [theme]
-checkout_url: https://checkout.anystack.sh/tokeui-filament-theme
-price: €15.00
-description: A professional Filament theme with blue sidebar and topbar, plus stat card variants. Full light and dark mode support. Purchase on AnyStack and install via Composer.
+description: A professional theme with blue sidebar and topbar, plus stat card variants. Full light and dark mode support.
+discord_url:
 docs_url: https://raw.githubusercontent.com/Docteur-Parfait/tokeui-doc/master/README.md
 github_repository: Docteur-Parfait/filament-tokeui-theme
 has_dark_theme: true
