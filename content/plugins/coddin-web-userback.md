@@ -10,5 +10,5 @@ github_repository: coddin-web/filament-userback-plugin
 has_dark_theme: true
 has_translations: false
 versions: [4]
-publish_date: 2026-01-25
+publish_date: 2026-02-24
 ---
