@@ -2,9 +2,9 @@
 name: Menu Manager
 slug: notebrainslab-menu-manager
 author_slug: notebrainslab
-categories: [navigation, menu]
-description: A powerful Filament v4 & v5 plugin for managing navigation menus.
-docs_url: https://github.com/notebrainslab/filament-menu-manager/blob/main/README.md
+categories: [panel-builder]
+description: A powerful Filament plugin for managing navigation menus.
+docs_url: https://raw.githubusercontent.com/notebrainslab/filament-menu-manager/refs/heads/main/README.md
 github_repository: notebrainslab/filament-menu-manager
 has_dark_theme: true
 has_translations: false
